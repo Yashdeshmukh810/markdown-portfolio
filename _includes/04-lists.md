@@ -1,4 +1,4 @@
-football
-cricket
-swimming 
-chess
+- football
+- cricket
+- swimming 
+- chess
