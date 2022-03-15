@@ -1,0 +1,4 @@
+- football
+- cricket
+- swimming 
+- chess
